@@ -1,0 +1,6 @@
+{
+  "name": "Elemate.GitHub.io",
+  "tagline": "Elemate Blog",
+  "body": "# elemate.github.io\r\n_**### # 很爱很爱你**_\r\nclass Demo{\r\n public static void main(String[] args){\r\n  System.out.println(\"hello world\");\r\n}\r\n}",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
